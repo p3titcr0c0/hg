@@ -1,3 +1,4 @@
+header("Content-type: application/JavaScript; charset=UTF-8");
 const online = [
     {
       "name": "Molecule Man",
