@@ -1,4 +1,3 @@
-header("Content-type: application/JavaScript; charset=UTF-8");
 const online = [
     {
       "name": "Molecule Man",
@@ -11,3 +10,7 @@ const online = [
       ]
     }
   ]
+/*
+https://cdn.jsdelivr.net/gh/p3titcr0c0/hg@main/online.js
+https://www.jsdelivr.com/rawgit
+*/
